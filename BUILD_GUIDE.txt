@@ -1,0 +1,38 @@
+===================================================
+  HyperBoost V5 - Fabric Mod Build Guide
+===================================================
+
+REQUIREMENTS:
+  - Java JDK 21 or newer
+  - Internet connection (for first build, to download dependencies)
+
+FIRST TIME SETUP:
+  Run the setup script to initialize Gradle wrapper:
+
+  Linux/macOS:
+    chmod +x setup.sh
+    ./setup.sh
+
+  Windows:
+    Double-click setup.bat or run in CMD:
+    setup.bat
+
+BUILD THE MOD:
+  Linux/macOS:
+    ./gradlew build
+
+  Windows:
+    gradlew.bat build
+
+OUTPUT:
+  The compiled .jar will be in:
+    build/libs/hyperboost-v5-1.0.0.jar
+
+INSTALL THE MOD:
+  Copy the .jar to your Fabric mods folder:
+    .minecraft/mods/hyperboost-v5-1.0.0.jar
+
+TROUBLESHOOTING:
+  If Gradle fails to download dependencies, check your internet connection.
+  The first build may take several minutes as it downloads Minecraft mappings.
+===================================================
