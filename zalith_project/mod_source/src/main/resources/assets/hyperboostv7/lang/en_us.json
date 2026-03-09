@@ -1,0 +1,15 @@
+{
+  "category.hyperboostv7": "HyperBoost V7",
+  "key.hyperboostv7.toggle_hud": "Toggle HUD",
+  "key.hyperboostv7.cycle_profile": "Cycle Profile",
+
+  "hyperboostv7.profile.performance": "Performance",
+  "hyperboostv7.profile.balanced": "Balanced",
+  "hyperboostv7.profile.quality": "Quality",
+
+  "hyperboostv7.hud.fps": "FPS",
+  "hyperboostv7.hud.render": "Render",
+  "hyperboostv7.hud.memory": "Memory",
+  "hyperboostv7.hud.spikes": "Spikes",
+  "hyperboostv7.hud.warmup": "WARMUP"
+}

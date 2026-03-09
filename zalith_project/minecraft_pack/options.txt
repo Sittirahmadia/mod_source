@@ -1,0 +1,9 @@
+graphics:fast
+renderDistance:4
+simulationDistance:3
+particles:minimal
+entityShadows:false
+clouds:false
+mipmapLevels:0
+entityDistanceScaling:0.35
+fullscreen:true
